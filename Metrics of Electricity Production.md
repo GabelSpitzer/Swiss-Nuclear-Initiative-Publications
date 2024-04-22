@@ -11,4 +11,10 @@ To understand the meaning of many of the parameters below it is important to kno
 ## Pollution
 
 ## Pilotability
+- Ramp rate
+- Daily availability and variance
+- Seasonal availability and variance
 ## Scalability
+- Geographic limitations
+    - e.g. only certain places have the geography needed for dams, sun and wind availability differ geographically, thermal PPs need cooling water.
+- Fuel limitations
