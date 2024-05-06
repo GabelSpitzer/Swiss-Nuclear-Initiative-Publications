@@ -63,6 +63,9 @@ Different GHGs have different impacts on climate change, some molecules being mo
 
 Not all of these gasses remain in the atmosphere for the same amount of time, thus having different global warming potentials over different time horizons. For instance, the above number for methane refers to the global warming potential it has over the course of 100 years [1][p.47], which is the current standard reporting time horizon though there is a push by some to adopt shorter time horizons. On a 20 year time horizon methane is 3 times as good at carbon forcing as on a 100 year time horizon ([86 vs 28 kgCO2eq](https://www.gti.energy/wp-content/uploads/2019/02/CMR-Implications-Using-Different-GWP-Time-Horizons-White-Paper-2019.pdf)).
 
+![image](https://github.com/GabelSpitzer/Swiss-Nuclear-Initiative-Publications/assets/113603228/fa79310a-25ec-42c3-8014-66de45459b9d)
+Figure from UNECE 2021
+
 *Leading sentence into the next section: GHGs are only one of the many pollutants produced during the life-cycle of power plants...*
 
 ## Pollution - work in progress
