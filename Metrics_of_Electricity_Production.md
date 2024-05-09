@@ -2,7 +2,7 @@
 
 *Note: all numbered references herein are those taken from the Technology Report. I don't know how to do references easily in Git, we may want to switch over to Overleaf for this aspect unless we find a simple way to do citations (also has version history, etc.)*
 
-Modern grids don't typically consist solely of a single electricity production technology. Different technologies serve different roles within the grid, some of them supply a cheap and stable supply, some of them have very low emissions but are difficult to control, some excel at providing electricity quickly on demand. We will try to explain some of the most relevant decision-guiding metrics of electricity producing technologies in this article.
+Modern grids don't typically consist solely of a single electricity production technology. France doesn’t exclusively power their grid with nuclear power, the Netherlands don’t exclusively produce their electricity with wind turbines. Different technologies serve different roles within the grid, some of them supply a cheap and stable supply, some of them have very low emissions but are difficult to control, some excel at providing electricity quickly on demand, some are cheap and some are expensive. We will try to explain some of the most relevant decision-guiding metrics of electricity producing technologies in this article.
 
 ## Introductory information and some examples
 
@@ -10,84 +10,122 @@ To understand the meaning of many of the parameters below it is important to kno
 
 ### What is a capacity factor
 
-When we talk about electricity generators there is a difference in what they are capable of producing and what they actually produce. This difference is captured in the capacity factor and the differences in capacity factors between common Swiss sources of electricity may surprise you.
+When we talk about electricity generators there is a difference in their maximum output and what they actually produce. This difference is captured in the capacity factor and the differences in capacity factors between common Swiss sources of electricity may surprise you.
 
 ![image](https://github.com/GabelSpitzer/Swiss-Nuclear-Initiative-Publications/assets/113603228/e6de9734-c262-4390-a943-614c2ce1bdda)
 
-The capacity factor states how 'active' a given electricity producer is and is calculated by dividing the electricity a power plant or other source of electricity produces throughout its life by the electricity it could have produced (*comment: e.g.: a 1kW solar panel has the capacity to produce 8760 kWh in a year. If it only produced 1314 kWh in a given year then the capacity factor for that year would be 1314/8760 = 15%). Different electricity generators have different reasons for not always operating or not operating at full capacity: 
+The capacity factor states how 'active' a given electricity producer is. It is calculated by dividing the electricity a power plant or other source of electricity produced during some amount of time (usually a year) by the electricity it could have produced (*comment: e.g.: a 1kW solar panel has the capacity to produce 8760 kWh in a year. If it only produced 1314 kWh in a given year then the capacity factor for that year would be 1314/8760 = 15%). Different electricity generators have different reasons for not always operating or not operating at full capacity: 
 
 - Gas fired power plants usually reduce their output when the price of electricity is low, because the cost of fuel is a major driver for the cost of their electricity.
-- Most nuclear power plants take weeks to refuel, though this usually only happens one every 18-24 months.
+- Most nuclear power plants take weeks to refuel, though this usually only happens one every 12-18 months.
 - Solar and wind-based electricity producers are weather dependent in their output, with solar PV typically having no meaningful electricity production during the night.
 
-Capacity factors are not static, they may change with time as maintenance is required or if external factors (such as the weather) are at play. The figure below illustrates how the average annual Swiss nuclear power plant capacity factor has changed over the course of the last few decades. 
+Capacity factors are not static, they may change with time as maintenance is required or if external factors (such as the weather) are at play. The figure below illustrates how the average annual Swiss nuclear power plant capacity factor has changed over the course of the last few decades.
 
 ![image](https://github.com/GabelSpitzer/Swiss-Nuclear-Initiative-Publications/assets/113603228/405cd304-5ab7-4fc0-a41b-b723160c21fd)
 
-The line shows the maximum capacity (sum of installed nuclear power plant capacities in GWh), the bars the power produced by NPPs in any given year (also in GWh) and the dots show the average capacity factor for that year based on the prior two data (in % on the right). 1984 and 2019 are peculiar outliers since the former marked NPP Leibstadt coming online and the latter NPP Mühleberg being decommissioned. We saw the capacity factor steadily increasing until the start of the last decade. Large maintenance projects and large upgrades such as the 2015 upgrades to the [Beznau 1&2 emergency power systems](https://www.axpo.com/ch/en/energy/generation-and-distribution/nuclear-power/beznau.html), as well as environmental factors such as hot river temperatures in some years have resulted in a lower average capacity factor in the last decade. 
+The line shows the maximum capacity (sum of installed nuclear power plant capacities in GWh), the bars show the power produced by NPPs in any given year (also in GWh) and the dots show the average capacity factor for that year based on the prior two data (in % on the right). 1984 and 2019 are peculiar outliers since the former marked NPP Leibstadt coming online and the latter NPP Mühleberg being decommissioned. We saw the capacity factor steadily increasing until the start of the last decade. Large maintenance projects and upgrades such as the 2015 upgrades to the [Beznau 1&2 emergency power systems](https://www.axpo.com/ch/en/energy/generation-and-distribution/nuclear-power/beznau.html), as well as environmental factors such as hot river temperatures in some years have resulted in a lower average capacity factor in the last decade. Like nuclear power, the capacity factors for other types of electricity generators also vary.
 
 ### Life-cycle assessments and project lifetimes
 
-The life cycle assessment (LCA) of a project usually starts with the mining of the materials necessary for the equipment and ends in the recycling or disposal of all materials used in the project (this is called "cradle to grave"). Knowing whether an LCA is taking the "cradle to grave" approach or not is very important in order to understand the meaning of the results. Comparing the life cycle greenhouse gas (GHG) emissions of a coal-fired power plant with a similarly sized solar PV installation will yield very different results if you include the emissions from the production of the power plant and solar panels or if you are only looking at operating emissions (i.e. coal being burned vs a solar panel just existing). 
+Life cycle assessments (LCAs) are a type of report in which we look at the impacts a project has had over the course of its lifetime. Every project has costs, economic, environmental and social and life cycle assessments can show all of these at the same time. A given electricity producer may have the lowest impact on the global climate, but may result in the most wildlife being impacted or the highest degree of social injustice. It is important that we are able to view our potential sources of electricity in the full context of their impacts so that we can make fair and informed decisions. LCAs are highly variable in what they focus on. Some LCAs are purely economic, some purely environmental, some are combinations of both. The list of different metrics within LCAs is quite long too. We explain the ones we think are most relevant later in this section.
 
-In order to produce comparable numbers we usually take the impacts of a project over its lifetime and divide them by the power produced throughout its lifetime. Consequently, predictions about the impacts of electricity generators are highly dependent on the assumptions around capacity factors and lifetimes of the equipment. Assuming that a hydroelectric dam will last for 100 years and comparing that to either a 10 or 20 year solar panel will result in a factor 2 difference in the results.
+### How is an LCA made?
 
-### Example of confusing metrics/units
+The LCA of a project usually starts at the mining of the materials necessary for the equipment and ends at the recycling or disposal of all materials used in the project (this is called "cradle to grave"). Knowing whether an LCA is taking the "cradle to grave" approach or not is very important in order to understand the meaning of the results. Comparing the life cycle greenhouse gas (GHG) emissions of a coal-fired power plant with a similarly sized solar PV installation will yield very different results if you include the emissions from the production of the power plant and solar panels or if you are only looking at operating emissions (i.e. coal being burned vs a solar panel just existing).
+
+In order to produce comparable numbers we usually take the impacts of a project over its lifetime and divide them by the power produced throughout its lifetime. Consequently, predictions about the impacts of electricity generators are highly dependent on the assumptions around capacity factors and lifetimes of the equipment. Assuming that a hydroelectric dam will last for 100 years and comparing that to either a 10 or 20 year solar panel will result in a factor 2 difference in the results.+
+
+### Some common metrics you may come across - INCOMPLETE, NEEDS EXPLANATIONS FOR THE DIFFERENT METRICS OR JUST AN EXTERNAL REFERENCE
+
+- Eco points - often used, are an amalgamation of different factors, the balance is highly scenario dependent and thus LCAs based on the same data won’t necessarily have the same results.
+- Ecological scarcity: pointes (species-year).
+- Freshwater eutrophication: g P eq. per MWh, MEANING
+- Water scarcity (?): u.ex. dissipated water in l per kWh       |        UNIT, water scarcity is a particularly subjective parameter in its weighting. Fresh water is not available to us in equal measure around the globe.
+- Climate change: GHG emissions (g CO2 eq. per kWh) , GWP or similar
+- Ionizing radiation: u.ex. = Sievert per GW-annum
+- Human toxicity: u.ex. = CTUh per TWh (carcinogenic and non-carcinogenic)
+    - Land use/occupation: u.ex. = points per kWh
+- Resource use
+    - fossil energy carriers: u.ex. = MJ/kWh
+    - minerals and metals:
+        - Straight: u.ex. kg/MW or g/MWh, e.g. one MW of solar PV rooftop installation requires about 3070 kg of copper, or 3 kg per kW. Consequently, each MWh of Swiss solar PV rooftop electricity uses about 130 g of copper.
+        - Scarcity based: u.ex =  g Sb eq. per MWh - this uses the scarcity of antimony as a measure to compare other material scarcities to. Depletion is calculated based on the global available extractable reserves (material in the ground for which the extraction is economically feasible)
 
 ![image](https://github.com/GabelSpitzer/Swiss-Nuclear-Initiative-Publications/assets/113603228/f93ac03a-0845-4892-b5d6-1135283259a2)
 
-The figure above illustrates the issue we are trying to address with our explanations. Critical minerals (such as copper, lithium, rare earths, silicon, ect.) are required for the construction of power plants and other infrastructure. The amount required changes depending on the type of power producer and the figure on the left is how this data was reported in the IEA's report (CONFIRM SOURCE). We care about the amount of minerals needed because each kg of minerals represents the undertaking of a certain amount of mining, refining and permanent waste disposal, usually on foreign soil and often performed in an unsafe manner (e.g. Mayanmar, chinese silicon, etc.). The left figure shows the mineral requirements in kg/MW, with solar PV being
+The figure above illustrates the issue we are trying to address with our explanations. Critical minerals (such as copper, lithium, rare earths, silicon, ect.) are required for the construction of power plants and other infrastructure. The amount required changes depending on the type of power producer and the figure on the left is how this data was reported in the IEA's report (CONFIRM SOURCE). We care about the amount of minerals needed because each kg of minerals represents the undertaking of a certain amount of mining, refining and permanent waste disposal, usually on foreign soil and often performed in an unsafe manner (e.g. Myanmar, Chinese silicon, etc.). The left figure shows the mineral requirements in kg/MW, with solar PV being less than twice as mineral intense as hydroelectricity on a per-MW basis. But what does this mean? Solar PV and hydroelectricity are active for very different amounts of times and have substantially different expected life times, so whilst it seems as if these values are comparable, the figure on the right shows that the mineral intensity of solar PV per unit of electricity (g/MWh) is more than 21 times higher than that of hydroelectricity (* comment = these numbers reflect solar PV rooftop installations and hydroelectric dams in the Swiss context. Note that the units have changed from kg to g between the two metrics. Data was obtained from the IEA "The Role of Critical Minerals in the Clean Energy Transition" report, assumptions for the right side of the figure can be found in HERE{link to appendices or something, list lifetimes, capacity factors, etc.}).
 
-*less than twice as mineral intense as hydroelectricity*
+## Greenhouse gas (GHG) intensity and climate change
 
-on a per-MW basis. But what does this mean? Solar PV and hydroelectricity are active for very different amounts of times and have substantially different expected life times, so whilst it seems as if these values are comparable, the figure on the right shows that the mineral intensity of solar PV per unit of electricity (g/MWh) is
-
-*more than 21 times higher than that of hydroelectricity*
-
-(* comment = these numbers reflect solar PV rooftop installations and hydroelectric dams in the Swiss context. Note that the units have changed from kg to g between the two metrics. Data was obtained from the IEA "The Role of Critical Minerals in the Clean Energy Transition" report, assumptions for the right side of the figure can be found in HERE{link to appendices or something, list lifetimes, capacity factors, etc.}).
-
-## Greenhouse gas (GHG) intensity
-
-GHGs, like carbon dioxide, reduce our planets ability to cool itself, meaning that a higher concentration of GHGs in our atmosphere results in a higher average global surface temperature. Many GHGs are produced naturally and global warming and cooling events have regularly occurred, for instance through the [volcanic emission of sulphur dioxide (SO2)](https://scied.ucar.edu/learning-zone/how-climate-works/how-volcanoes-influence-climate). Whilst GHGs occur naturally, they are also produced by human activity and we are much faster at pumping GHGs into the atmosphere than nature seems to be, resulting in the rapid climate change we are seeing today.
+GHGs, like carbon dioxide, reduce our planets ability to cool itself, meaning that a higher concentration of GHGs in our atmosphere results in a higher average global surface temperature. Many GHGs are produced naturally and global warming and cooling events have regularly occurred, for instance through the [volcanic emission of sulphur dioxide (SO2)](https://scied.ucar.edu/learning-zone/how-climate-works/how-volcanoes-influence-climate). Whilst GHGs occur naturally, they are also produced by human activity and we are much faster at pumping GHGs into the atmosphere than nature seems to be, resulting in the rapid climate change we are seeing today. 
 
 ### What is a GHG?
 
 Any gas which has the potential to change the planet's cooling ability is a GHG. We separate GHGs into two broad classes, direct and indirect GHGs. Direct GHGs interact with light and convert some of it to infrared radiation. They have a "direct radiative forcing effect", examples of these are carbon dioxide (CO2), methane (CH4) and chlorofluourocarbons. Indirect GHGs are gases which don't exhibit a direct radiative forcing effect but do affect the overall radiation balance on a global scale. SO2 is an example of an indirect GHG which results in the planet becoming cooler through cloud seeding and other effects. Methane is another example of an indirect GHG, though with a warming effect, because the decomposition of methane in the atmosphere results in the production of CO2.
 Please click [here](https://ghginstitute.org/2010/06/15/what-are-greenhouse-gases/) to find out more about what a GHG is.
 
-### What does carbon dioxide equivalency and the kgCO2eq unit mean?
+### What do Global Warming Potential (GWP) and the kgCO2eq unit mean?
 
-Different GHGs have different impacts on climate change, some molecules being more severe in their impact on the global climate than others. Methane is approximately 28 times more effective than carbon dioxide as a greenhouse gas per unit of mass, thus 1 kg methane is equivalent to 28 kilograms of CO2 (kgCO2eq) [1][p.47]. The exact impact depends on several factors which we will not get into here, but suffice it to say that reality is a bit more complicated than a single carbon dioxide equivalency value. When countries or companies report on their GHG emissions they usually have a specific selection of GHGs they are reporting on, usually [those covered by the Paris agreement](https://www.europarl.europa.eu/topics/en/article/20230316STO77629/climate-change-the-greenhouse-gases-causing-global-warming), not the entire spectrum of all GHGs. A good example of an indirect GHG which is usually not reported on is hydrogen, which is about [11.6 times more effective as a GHG than CO2](https://www.nature.com/articles/s43247-023-00857-8).
+The most common metric to compare different emissions with respect to their climate change impact is GWP, the measure of the cumulative radiative forcing a single large emission would have caused relative to CO2 after a certain number of years had passed. 
+
+Different GHGs have different impacts on climate change, some molecules being more severe in their impact on the global climate than others. On a 100 year time horizon (more on that later), methane is approximately 28 times more effective than carbon dioxide as a greenhouse gas per unit of mass, thus 1 kg methane is equivalent to 28 kilograms of CO2 (kgCO2eq) [1][p.47]. The exact impact depends on several factors which we will not get into here, but suffice it to say that reality is a bit more complicated than a single carbon dioxide equivalency value. When countries or companies report on their GHG emissions they usually have a specific selection of GHGs they are reporting on, usually [those covered by the Paris agreement](https://www.europarl.europa.eu/topics/en/article/20230316STO77629/climate-change-the-greenhouse-gases-causing-global-warming), not the entire spectrum of all GHGs. A good example of an indirect GHG which is usually not reported on is hydrogen, which is about [11.6 times more effective as a GHG than CO2](https://www.nature.com/articles/s43247-023-00857-8).
 
 ### Time horizons
 
-Not all of these gasses remain in the atmosphere for the same amount of time, thus having different global warming potentials over different time horizons. For instance, the above number for methane refers to the global warming potential it has over the course of 100 years [1][p.47], which is the current standard reporting time horizon though there is a push by some to adopt shorter time horizons. On a 20 year time horizon methane is 3 times as good at carbon forcing as on a 100 year time horizon ([86 vs 28 kgCO2eq](https://www.gti.energy/wp-content/uploads/2019/02/CMR-Implications-Using-Different-GWP-Time-Horizons-White-Paper-2019.pdf)).
+Not all of these gasses remain in the atmosphere for the same amount of time, thus having different global warming potentials over different time horizons. Methane, for instance, is approximately [120 times more effective than CO2 as a GHG](https://pubs.rsc.org/en/content/articlehtml/2018/em/c8em00414e#:~:text=GWP%20is%20used%20widely%20across,indirect%20climate%20effects%20are%20included).) (in terms of radiative forcing) directly after it is emitted; however, it is degraded in the atmosphere over time into CO2 and thus the GWP it has over the course of 100 years is 28 years[1][p.47] instead of 120. 100 years is the current standard reporting time horizon though there is a push by some to adopt shorter time horizons since policy changes are looking at 2050 target. Changing the time horizon changes the results considerably, since methane on a 20 year time horizon is [86 times effective as CO2](https://www.gti.energy/wp-content/uploads/2019/02/CMR-Implications-Using-Different-GWP-Time-Horizons-White-Paper-2019.pdf) in terms of radiative forcing, three times worse than the 100 year time horizon.
 
-![image](https://github.com/GabelSpitzer/Swiss-Nuclear-Initiative-Publications/assets/113603228/fa79310a-25ec-42c3-8014-66de45459b9d)
-Figure from UNECE 2021
+![image](https://github.com/GabelSpitzer/Swiss-Nuclear-Initiative-Publications/assets/113603228/20e0b0d8-f177-4018-b33c-af67b4591f82)
+https://pubs.rsc.org/image/article/2018/EM/c8em00414e/c8em00414e-f5_hi-res.gif
+### Criticisms of GWP and alternatives to it
 
-*Leading sentence into the next section: GHGs are only one of the many pollutants produced during the life-cycle of power plants...*
+The GWP metric has received a lot of criticism from the scientific community. GWP, [they argue](https://pubs.rsc.org/en/content/articlehtml/2018/em/c8em00414e#:~:text=GWP%20is%20used%20widely%20across,indirect%20climate%20effects%20are%20included).), does not represent the climate change effects of GHGs accurately since 
 
-## Pollution - work in progress
+- the GWP measures radiative forcing instead of the resulting temperature change (between which the relationship is not linear),
+- time horizons are chosen seemingly arbitrarily
+- GWP looks only at pulse emissions (*A pulse emission is emitted in an instant), which do not reflect the real-world emissions which occur over the span of years or decades.
 
-Besides GHG emissions there are several ways in which the human activity related to electricity production can have a negative impact on the environment. Almost any construction or mining project will inevitably impact wildlife, whether that be the local population of birds near a wind turbine or the fish, gibbons and red pandas of Myanmar where the materials for the wind turbine are sourced from ([GLOBAL WITNESS ARTICLE](https://www.globalwitness.org/en/campaigns/natural-resource-governance/myanmars-poisoned-mountains/)) - not to mention the people of Myanmar itself, social injustice in the green energy transition is a topic to itself.
+The most popular alternative to GWP is Global Temperature change Potential (GTP), a metric which estimates the global mean surface temperature change due to a pulse emission at a certain point in time after the emission has occurred (so only the current effects of the emission, not the cumulative effects). This metric has received enough popularity to be included in the International Panel on Climate Change reports. Since the GTP investigates only the current effects of a prior emission it is not a good replacement for GWP. For that purpose the Integrated Global Temperature change Potential (IGTP) has been created. Several other metrics exist which measure the impact of GHGs on the global climate, such as the [Sustaine-flux global warming potential](https://essd.copernicus.org/articles/8/605/2016/) or the [temperature proxy index](https://link.springer.com/article/10.1007/s10584-009-9566-6), though they are not as widely used as GWP or GTP.
 
-Some types of emission are produced that the electricity production site. The Combustion fumes from coal, natural or biogas fired power plants are examples of this. Much of the pollution is produced during mining, refining or equipment production. Fine particles (harmful to human and animal welfare) and noxious gases are part of the air pollution issue. Mining and refining may result in 
+GHGs are only one of the many ways in which the electricity sector impacts our environment. We often focus on GHGs because their influence on the climate is posing a global threat, but the electricity we receive in our homes has a wider pollution history than just GHGs.
 
-This section will require the most work, it is a catch-all for a lot of different sections and I’m still working on how to integrate those
+## Pollution and its ecological impacts - may just be renamed to be “ecological impacts” to become a broader section, with pollution becoming a partial section within it
+
+Note: I am fighting myself (Mark) in this section. The actual metrics are extremely boring to most people because almost no one is going to care about the differences in regional ecotoxicity and their weighting, or the degree to which a mineral is toxic in a specific application in several different ways. What matter is that there are metrics for these things and that they are considered; however, if we never actually mention the specific metrics used to do that then I probably should not dive deeply into how this is done in an LCA or LCIA but rather link to an explanation on how and this is done and only give a “why” this is done. The purpose of this section thus becomes to give some background knowledge to the “externalised impacts” article and the “waste” article. Any other points?
+
+Almost all construction or mining project will inevitably impact the environment, some of these happen near us and some of them very far away. In the case of wind turbines this would be the local population of birds near the wind turbine and abroad some of the impacts are the habitat destruction of the fish, gibbons and red pandas of Myanmar where materials for the wind turbine are sourced from ([GLOBAL WITNESS ARTICLE](https://www.globalwitness.org/en/campaigns/natural-resource-governance/myanmars-poisoned-mountains/)) - not to mention the impacts on the people of Myanmar, social injustice in the green energy transition is a topic to itself.
+
+Pollution occurs in many forms, but is broadly defined as the release of harmful materials into the environment. Pollution may enter the environment in a gaseous or aerosol form or by being dissolved or carried by water streams. The most relevant measures for pollution are the ecotoxicity (unit), 
+
+Some types of emission are produced at the electricity production site. The Combustion fumes from coal, natural or biogas fired power plants are examples of this. Much of the pollution is produced during mining, refining, transportation or equipment production. Fine particles (harmful to human and animal welfare) and noxious gases are part of the air pollution issue. Mining and refining may result in heavy metals being released into the ecosphere, such as EXAMPLE or arsenic from steel smelting CITATION.
+
+This section will require the most work, it is a catch-all for a lot of different sections and I’m still figuring out how to integrate those
 
 Link to air pollution article, link to waste article, detail some of that information here too. 
 
-Some of the pollution aspects:
+Content:
 
-- particle, chemical and radiological pollution
-- air
-- ground
-- water
+- What pollution is (definition) and explain why pollution should matter to the reader and the difference between
+    - National pollution
+    - International pollution
+- Explain broad metrics
+    - Ecological scarcity (species elimination as consequence of pollution): UNIT, MEANING
+    - Eutrophication: UNIT, MEANING
+    - Ecotoxicity (freshwater, marine and terrestrial)
+    - Acidification
+    - Particle emissions (into health)
+    - Radiation (into health)
+    - Don’t be confused by eco points (used by BFE in CITE) - it includes ecological scarcity but also other factors (such as EXAMPLE), which have little to do with the meaning we usually assign to the word “eco”
+- What do we emit?
+    - particle, chemical and radiological pollution
+- How do we pollute
+    - air - air quality index (AQI) is usually the metric for local air quality
+    - ground
+    - water
 - tailings dams and failing rates (waste inevitably ends up washing into the environment)
 - nuclear waste storage
 
-## Health aspects
+## Health aspects - pollution and accidents
 
 Will require a deeper article, mortality and morbidity need to be explained here and we link to 'which power source is the safest'
 
@@ -112,7 +150,7 @@ Scaling limits in this document are factors which limit the maximum power that c
     - e.g. only certain places have the geography needed for dams, sun and wind availability differ geographically, thermal PPs need cooling water.
 - Fuel limitations
 
-## Land usage
+## Land usage (m2/kWh)
 
 Why does this matter to the reader
 
@@ -137,7 +175,7 @@ Piloting potential describes the degree of control which a producer has over the
 
 The unit used in this document (ramp rate) is the degree to which a generator can change its power output as a percentage of its maximum power per minute once it is operating. Some methods of generating power, such as solar PV and wind, do not allow much control over the output since their output is dependent on environmental circumstances. Wind turbines can be slowed down intentionally, so there is some control over the ramp-down rate.
 
-### Ramp rate
+### Ramp rate (% per minute/hour)
 
 Variable renewable sources of electricity such as wind and solar power are becoming more prevalent in global electricity production and are usually not pilotable. Taking solar PV as an example: there are daily peaks in production, lower rates of production in the mornings and evenings and essentially no electricity production at night. Additionally, clouds, rain and snow may affect daily production unexpectedly. Seasonally we expect a significantly lower electricity production from solar power in winter than in summer.
 
@@ -147,9 +185,9 @@ Besides the ramping rate is relevant on a daily basis and shorter time-frames, t
 
 Ramping rates are not constant for most power generation methods over their entire spectrum of operation. A cold start (at ignition of fuel for thermal power plants) may mean several hours or even days of operation before the full power output can be achieved. Currently the vast majority of US hydroelectric plants require fewer than 10 minutes to achieve full power from a cold start, whilst the vast majority of the US nuclear power plants require more than 12 hours [4] Shorter start-up times are preferred over longer start-up times. Nuclear power has particularly long start-up times due to reactor poisons being high in concentration shortly after a reactor shutdown, as well as the safety measures which are taken when nuclear reactors start up. Since nuclear reactors are usually shut down at most once per year the long start-up time is not of great importance, as reflected by its relatively high capacity factor. It is not in the interest of the nuclear power plant operator to follow load in most cases due to the low cost of fuel and increased maintenance costs from ramping.
 
-## Water usage
+## *Water usage*
 
-This section probably won't appear in the final article, but if it did then it would speak about the threat of droughts in the uncertain climate of the future where extreme weather is likely going to become more regular than today (citing historic extreme weather event increase rates). It would then highlight how most electricity sources use water at some point of their life-cycle, every one in the equipment production (because mining and refining require lots of water) and most (barring wind and solar power) also during operation. Interesting data in this section would be the relative water intensity of hydroelectricity and nuclear power, showing the amount of water which currently evaporates per kWh in Swiss hydroelectric dams.
+*This section probably won't appear in the final article, but if it did then it would speak about the threat of droughts in the uncertain climate of the future where extreme weather is likely going to become more regular than today (citing historic extreme weather event increase rates). It would then highlight how most electricity sources use water at some point of their life-cycle, every one in the equipment production (because mining and refining require lots of water) and most (barring wind and solar power) also during operation. Interesting data in this section would be the relative water intensity of hydroelectricity and nuclear power, showing the amount of water which currently evaporates per kWh in Swiss hydroelectric dams.*
 
 ## Costs (e.g. LCOE)
 
