@@ -1,3 +1,5 @@
+**The Swiss Energy Strategy 2050+: A First Step Towards a Greener Future**
+
 An electric vehicle in your garage and a solar panel on your roof. This is what your future may look like, according to the Swiss government’s Energy Strategy 2050+[1]. While the plan has undergone serious changes, the original strategy still forms the basis of the current Swiss energy policy. Read on to learn more about this initial plan, which aimed to help prevent further climate change while ensuring Switzerland’s continued prosperity.
 
 ## **Why is the 2050+ strategy necessary and what would it change?**
