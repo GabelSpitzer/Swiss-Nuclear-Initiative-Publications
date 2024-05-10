@@ -8,7 +8,7 @@ See our companion piece,[The Swiss Energy Strategy 2050+: A First Step Towards a
 
 ![alt text](../Images/01_/WinterSommerBilanz2050+technicalreport.jpg)
 
-Development of Swiss electricity production in the winter and summer half-years. Blue is hydro, orange is nuclear energy, yellow is fossil fuels, green is renewables, and grey is the net imports (or exports if below the x-axis).
+_Development of Swiss electricity production in the winter and summer half-years. Blue is hydro, orange is nuclear energy, yellow is fossil fuels, green is renewables, and grey is the net imports (or exports if below the x-axis)._
 
 The first version of the 2050+ strategy relied heavily on hydro and solar, both of which underperform greatly during the winter. Even with high investments in these power sources, the Energy Perspectives report expected at least a 35% winter electricity production deficit around 2035 (the grey area in the graph) - which it hoped to meet through rising electricity imports from the EU. However, it is increasingly unlikely that these added imports can be secured.
 
