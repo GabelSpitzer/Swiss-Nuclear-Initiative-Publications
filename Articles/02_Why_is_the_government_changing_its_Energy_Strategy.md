@@ -6,7 +6,7 @@ See our companion piece,[The Swiss Energy Strategy 2050+: A First Step Towards a
 
 ## Why were winter electricity imports a problem?
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1e060a9b-70de-4b45-8e0a-1f9b533a9fb7/45c79cd4-eb6c-4e8c-a228-68380e89a2d5/Untitled.png)
+![alt text](../Images/01_/WinterSommerBilanz2050+technicalreport.jpg)
 
 Development of Swiss electricity production in the winter and summer half-years. Blue is hydro, orange is nuclear energy, yellow is fossil fuels, green is renewables, and grey is the net imports (or exports if below the x-axis).
 
