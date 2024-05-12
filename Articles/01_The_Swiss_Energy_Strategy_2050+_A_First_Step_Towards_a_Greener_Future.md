@@ -21,7 +21,7 @@ These changes would come with some added costs. If the pre-2050+ strategy polici
 
 Transportation, industry, household heating and agriculture all contribute significantly to Swiss greenhouse gas emissions. The figure below shows historic annual emission values for Switzerland (excluding some emitters such as international aviation) and also provides the projected emissions from the original Swiss Energy Strategy 2050+’s base-case scenario[4].
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1e060a9b-70de-4b45-8e0a-1f9b533a9fb7/0425d6e7-7bff-4eb3-b563-84cd623db438/Untitled.png)
+![alt text](<Swiss GHG emissions.jpeg>)
 
 The last two categories (CCS and NET) refer to activities which capture emissions at their source or directly from the air, and the store them in long-term repositories. CCS is Carbon Capture and Storage and NET refers to direct air CCS.
 
@@ -29,7 +29,7 @@ The Swiss government will seek to lower emissions in two ways: by making power g
 
 ## **Where does your energy currently come from and where will it probably come from?**
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/1e060a9b-70de-4b45-8e0a-1f9b533a9fb7/a33f30a4-b213-42eb-9bb1-5bb124322c3a/Untitled.png)
+![alt text](<Swiss Energy consumption.jpeg>)
 
 The Swiss energy mix is currently dominated by fossil fuels, with electricity from power plants only accounting for 24% of final energy consumption. However, as the graph above illustrates, petroleum and natural gas use will almost fall away entirely by 2050. Conversely, electricity generation from green energy sources, the use of other renewables (biogas and heat pumps are included under this heading), electricity-based energy carriers (like green hydrogen) and district heating will increase considerably in the future[6].
 
@@ -51,3 +51,23 @@ However, the old plan would struggle to produce enough electricity during winter
 Switzerland is aiming to reach net-zero greenhouse gas emissions by 2050. The original 2050+ strategy shows several paths through which this goal could be reached, focusing on realistic technologies existing today while minimizing added costs. Hydropower and solar PV rooftop installations formed the bulk of the proposed future Swiss electricity generation, supplying indoor heating and electric vehicles. The focus on electrification and efficiency are crucial to reducing Swiss emissions, though the heavy reliance on the EU for electricity in winter could have resulted in difficult situations in the future.
 
 For more information about how the Energy Strategy is changing to address this difficulty, see our [Why is the government changing its Energy Strategy?](https://www.notion.so/Why-is-the-government-changing-its-Energy-Strategy-bff0918153194a8faa0522c48efa44a2?pvs=21) article. If you’d like to learn more about the electric vehicle in your future garage, read our article [Cars of the future? The pros and cons of battery electric vehicles](https://www.notion.so/Cars-of-the-future-The-pros-and-cons-of-battery-electric-vehicles-cd7e03625951402ab3d0839537f19573?pvs=21).
+
+[1]https://www.bfe.admin.ch/bfe/en/home/policy/energy-perspectives-2050-plus.html/
+
+Our information comes from the technical report
+
+[2] [https://www.sciencedirect.com/science/article/pii/S2666154323000406#:~:text=Agriculture has the potential to,the emission of greenhouse gases](https://www.sciencedirect.com/science/article/pii/S2666154323000406#:~:text=Agriculture%20has%20the%20potential%20to,the%20emission%20of%20greenhouse%20gases).
+
+[3]https://unfccc.int/process-and-meetings/the-paris-agreement
+
+[4] The figure was created with data from table 64 of the Energy Perspectives technical report.
+
+[5]https://www.iea.org/reports/net-zero-roadmap-a-global-pathway-to-keep-the-15-0c-goal-in-reach/executive-summary
+
+[6] The figure was created with data from table 5 from the Energy Perspectives technical report.
+
+[7]https://www.swissinfo.ch/eng/sci-tech/swiss-wind-power-held-up-by-legal-challenges/46027692
+
+[8]https://www.euronews.com/green/2023/09/11/solar-offensive-swiss-voters-reject-plans-for-giant-solar-parks-in-unspoilt-alps
+
+[9][https://www.catf.us/2023/07/where-will-europe-store-its-co2/#:~:text=First%2C we consider a situation,%2C and South-West France](https://www.catf.us/2023/07/where-will-europe-store-its-co2/#:~:text=First%2C%20we%20consider%20a%20situation,%2C%20and%20South-West%20France)
