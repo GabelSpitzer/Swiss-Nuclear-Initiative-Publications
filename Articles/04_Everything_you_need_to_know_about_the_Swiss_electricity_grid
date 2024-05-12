@@ -14,7 +14,7 @@ Grid operators use data, like in the graph below, to predict electricity consump
 
 A good energy grid needs to be able to take all of these predictable fluctuations into account. However, electricity production also must be flexible enough to deal with sudden changes in demand. These range from clouds passing over many solar panels to the outright failure of a power plant or transmission line.
 
-![alt text](<Daily average consumption (2022).jpeg>)
+![alt text](<../Images/04_/Daily average consumption (2022).jpeg>)
 
 The figure is based on averages of Swissgrid data: https://www.swissgrid.ch/de/home/customers/topics/energy-data-ch.html
 
