@@ -1,0 +1,1 @@
+This folder will contain images and other content pertaining specifically to the website such as the landing page content, gifs, logos, etc., in addition to decisions regarding things such as colour schemes, fonts, etc.
