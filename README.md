@@ -1,1 +1,1 @@
-A git repository for editing purposes of our articles to improve the editing pipeline
+Within this repository you will find the raw content of our website, such as articles, some additional content, etc. (data repository is to be added at some stage too)
