@@ -20,7 +20,7 @@ It is crucial to prevent more of these catastrophes, alongside droughts, floods,
 
 ![alt text](<../Images/06_/Greenhouse Gas Emissions.jpeg>)
 
-CCGTs are combined cycle gas turbines, which can run on different combinations of coal, natural gas, oil, and synthetic gas or fuel.
+*CCGTs are combined cycle gas turbines, which can run on different combinations of coal, natural gas, oil, and synthetic gas or fuel.*
 
 As we can see from the graph, coal and CCGT plants contribute greatly to global warming. But, while burning fossil fuels for electricity produces the most greenhouse gasses, no electricity source is entirely emission-free. Construction, transport, extraction and refining processes all contribute to a power plant’s lifetime emissions.
 
