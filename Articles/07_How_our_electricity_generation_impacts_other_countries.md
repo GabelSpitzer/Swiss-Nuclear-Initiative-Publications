@@ -6,7 +6,7 @@ As consumers, we are often unaware of how our energy is sourced. This is very un
 
 ### How does our electricity generation affect other nations?
 
-Three factors cause the most damage internationally: **greenhouse gas emission*s,*** mining operations and mining waste. **Mining** is dangerous for workers, but its toxic byproducts, stored in so-called **“tailing dams”**, are often even more hazardous. Tailing dams are artificial waste designed to contain a mining operation's liquid waste - and are at risk of spilling their poisoous content into the surrounding environment. Since all energy production involves greenhouse gas emissions and mining to some extent, we need to examine all three of these aspects.
+Three factors cause the most damage internationally: **greenhouse gas emission*s,*** mining operations and mining waste. **Mining** is dangerous for workers, but its toxic byproducts, stored in so-called **“tailing dams”**, are often even more hazardous. Tailing dams are artificial lakes designed to contain a mining operation's liquid waste - and are often at risk of spilling their poisonous content into the surrounding environment. Since all energy production involves greenhouse gas emissions and mining to some extent, we need to examine all three of these aspects.
 
 ### The first problem: Greenhouse gas emissions from power generation
 
