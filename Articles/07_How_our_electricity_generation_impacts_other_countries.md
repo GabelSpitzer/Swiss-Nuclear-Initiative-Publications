@@ -36,7 +36,7 @@ Miners are frequently exposed to toxic substances, including radon, arsenic and 
 
 A prominent example is the copper mining industry, which is frequently connected to forced or child labour, bribery and corruption, and support for dangerous armed groups. Metal extraction can be even more damaging: in the Democratic Republic of the Congo (DRC), 15,7% of cobalt miners are children, while 20% work with little more than their hands. Unfortunately, cobalt is a key mineral for the green energy transition, with 70% of it being produced in the DRC. Unless action is taken, it is likely that these abusive mining practices will continue to be profitable.
 
-However, not all mineral extraction leads to human rights abuses. Argentina has amongst the lowest reports of problematic mining despite being part of the risky gold and copper industries. Australia is similarly safe for miners while producing about 50% of the world’s lithium, a mineral critical for electric car batteries and green energy storage.
+However, not all mineral extraction leads to human rights abuses. Argentina has amongst the lowest reports of problematic mining despite being part of the risky gold and copper industries. Australia is similarly safe for miners while producing about 50% of the world’s lithium, a mineral critical for electric car batteries and green energy storage. The private sector is not inactive either: Fuse Battery Metals seeks to establish alternatives for cobalt mining in North America, while the Responsible Mineral Initiative advocates for more ethical mining practices. Hopefully, these efforts can make the mineral supply chain more humane. 
 
 ### The third problem: The environmental dangers of tailing dams
 
