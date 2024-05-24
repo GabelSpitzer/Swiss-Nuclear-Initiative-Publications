@@ -20,7 +20,7 @@ It is crucial to prevent more of these catastrophes, alongside droughts, floods,
 
 ![alt text](<../Images/06_/Greenhouse Gas Emissions.jpeg>)
 
-CCGTs are combined cycle gas turbines, which can run on different combinations of coal, natural gas, oil, and synthetic gas or fuel.
+*CCGTs are combined cycle gas turbines, which can run on different combinations of coal, natural gas, oil, and synthetic gas or fuel.*
 
 As we can see from the graph, coal and CCGT plants contribute greatly to global warming. But, while burning fossil fuels for electricity produces the most greenhouse gasses, no electricity source is entirely emission-free. Construction, transport, extraction and refining processes all contribute to a power plant’s lifetime emissions.
 
@@ -41,7 +41,11 @@ However, not all mineral extraction leads to human rights abuses. Argentina has 
 ### The third problem: The environmental dangers of tailing dams
 
 
-Mining of all types is highly destructive to the environment. The toxic waste sludge it produces needs to be stored indefinitely, typically in so-called "tailing dams". As this graphic shows, there is an incredible amount of tailing damn waste across the world:
+Mining of all types produces large amounts of toxic or radiactive waste. These operations begin by dredging up large amounts of ore, which then needs to be processed to obtain the desired materials. To extract them, the ore is ground into fine particles, then mixed with water and various dangerous chemicals. This process results in useful minerals (such as gold, copper or uranium), but also creates large amounts of toxic sludge.
+
+Since it is hazardous to humans, animals, and the environment, the toxic waste produced by mining operations needs to be stored indefinitely. This is usually done by constructing tailing dams, which are relatively cheap when compared with other options. However, tailing dams have a major downside: they are prone to breaking or overflowing of not maintained properly.
+
+As this graphic shows, there is an incredible amount of (potentially dangerous) tailing damn waste across the world:
 
 ![alt text](<../Images/06_/The World's mine tailings.jpeg>)
 
@@ -51,7 +55,9 @@ A catastrophic tailing dam break occurs every 2 to 3 years, leading to deaths, d
 
 *The village of Bento Rodrigues, after the Mariana tailing dam break.*
 
-Mining tailing dams are numerous, and their toxic sludge cannot easily be contained. If the dam dries up, the content will turn to invisible noxious dust, which can easily blow towards villages, trees and animals. Too much water, on the other hand, will make dams overflow and spill part of their contents into the surrounding environment, as happened in the 2000 Baia Mare disaster in Romania. As such, tailings dams require careful planning and constant oversight [3].
+Mining tailing dams are numerous, and their toxic sludge cannot easily be contained. If the dam dries up, the content will turn to invisible noxious dust, which can easily blow towards villages, trees and animals. Too much water, on the other hand, will make dams overflow and spill part of their contents into the surrounding environment, as happened in the 2000 Baia Mare disaster in Romania. As such, tailings dams require careful planning and constant oversight [3]. 
+
+Because of costs, tailing dams are rarely designed to be maintained indefinetely. However, this makes an eventual disaster all but inevitable. One solution, called backfilling, is to dry and store the waste in the original mine. While more expensive, this may be necessary to protect nature and human lives in the long term.
 
 ### **Conclusion**
 
