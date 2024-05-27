@@ -1,6 +1,6 @@
 ### How our electricty generation affects other countries
 
-All electricity production has a human cost. Unfortunately, we often focus exclusively on the effects on our own country, including air pollution, noise, and hazardous waste. However, electricity production is a global industry, with mining and refining typically occurring overseas. In this article, we will explore the harm our electricity generation causes in other nations, both for humans and the environment. We end with a discussion on whether these problems are being solved.
+All electricity production has a human cost. Unfortunately, we often focus exclusively on the effects on our own country, including air pollution, noise, and hazardous waste. However, electricity production is a global industry, with mining and refining typically occurring overseas. In this article, we will explore the harm our electricity generation causes in other nations, both for humans and the environment. We end with a discussion on whether these problems are being solved, and how Switzerland could go about tackling them.
 
 As consumers, we are often unaware of how our energy is sourced. This is very understandable - global supply chains are rarely transparent, and we have limited control over how our power is produced. While these decisions are primarily in policymakers’ hands, knowing about them can still help us make more informed voting decisions.
 
@@ -59,7 +59,7 @@ Mining tailing dams are numerous, and their toxic sludge cannot easily be contai
 
 Because of costs, tailing dams are rarely designed to be maintained indefinetely. However, this makes an eventual disaster all but inevitable. One solution, called backfilling, is to dry and store the waste in the original mine. While more expensive, this may be necessary to protect nature and human lives in the long term.
 
-### What is being done to aleviate these problems?
+### What can and could be done to aleviate these problems?
 
 The mining industry, which is a large greenhouse emitter, is beginning to use renewables to power its operations [5]. That being said, the greenhouse gas emissions produced during mining, refining and shippping of materials are difficult to prevent completely. To balance out the emissions inside Swizterland that it cannot stop, the Energy Perspectives 2050+ report predicts that Switzerland will use direct-air carbon capture technologies [4], which suck greenhouse gases directly from the atmosphere. This technology, while currently prohibitively expensive, is still a realistic and proven method for slowing global warming. Swizterland could theoretically use carbon capture to balance out the emissions it causes in other countries. However, neither Switzerland or any other nation currently plan to do this.
 
