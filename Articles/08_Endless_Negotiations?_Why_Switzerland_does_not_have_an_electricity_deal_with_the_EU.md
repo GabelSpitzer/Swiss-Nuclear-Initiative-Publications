@@ -1,6 +1,6 @@
 ### Endless Negotiations? Why Switzerland does not have an electricity deal with the EU 
 
-An electricity deal guarantees that two entities can buy and sell electricity from each other. Key Swiss institutions, like Swissgrid [1], are adamant that Switzerland cannot meet its energy needs without an electricity deal with the European Union (EU). For their part, EU officials have been negotiating with the Swiss government for more than two centuries[2]. And yet, despite many years of talks, a Swiss-EU electricity deal has not materialized.
+An electricity deal guarantees that two entities can buy and sell electricity from each other. Key Swiss institutions, like Swissgrid [1], are adamant that Switzerland cannot meet its energy needs without an electricity deal with the European Union (EU). For their part, EU officials have been negotiating with the Swiss government for more than two decades[2]. And yet, despite many years of talks, a Swiss-EU electricity deal has not materialized.
 
 If an electricity deal with the EU is so important, why hasn’t Switzerland secured it yet? This is the question we will try to answer. In this article, we will provide a brief history of Swiss-EU negotiations, and explain the key reasons why an agreement has not been reached.
 
