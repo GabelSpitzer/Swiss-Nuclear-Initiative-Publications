@@ -49,7 +49,7 @@ As this graphic shows, there is an incredible amount of (potentially dangerous) 
 
 ![alt text](<../Images/06_/The World's mine tailings.jpeg>)
 
-A catastrophic tailing dam break occurs every 2 to 3 years, leading to deaths, destroyed villages, water contamination, and ecological and environmental destruction. For example, the Mariana dam break in Brazil annihilated the village of Bento Rodrigues and might have permanently polluted the River Doce. Mining operations are often conducted in previously protected nature reserves or near indigenous populations, exacerbating the potential damage caused by a tailing dam break.
+A catastrophic tailing dam break occurs every 2 to 3 years, leading to deaths, destroyed villages, water contamination, and ecological and environmental destruction. For example, the Mariana dam break in Brazil annihilated the village of Bento Rodrigues and might have permanently polluted the River Doce. Another example is the Baia Mare cyanide spill in Romania, which which some commentators have called the worst environmental disaster in Europe since Chernobyl [6]. Mining operations are often conducted in previously protected nature reserves or near indigenous populations, exacerbating the potential damage caused by a tailing dam break.
 
 ![alt text](<../Images/06_/Bento Rodrigues.jpeg>)
 
@@ -93,6 +93,8 @@ Energieperspektiven 2050+. Zusammenfassung der wichtigsten Ergebnisse
 page 16
 
 [5] https://thinklandscape.globallandscapesforum.org/68092/can-mining-ever-be-sustainable
+
+[6] http://news.bbc.co.uk/2/hi/europe/642880.stm
 
 *[sources: [https://www.usgs.gov/faqs/how-can-climate-change-affect-natural-disasters#faq, https://www.usgs.gov/faqs/what-are-long-term-effects-climate-change](https://www.usgs.gov/faqs/what-are-long-term-effects-climate-change), Net Zero Roadmap 2023 update]
 
