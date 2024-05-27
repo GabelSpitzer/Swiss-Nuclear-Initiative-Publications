@@ -43,7 +43,7 @@ However, not all mineral extraction leads to human rights abuses. Argentina has 
 
 Mining of all types produces large amounts of toxic or radiactive waste. These operations begin by dredging up large amounts of ore, which then needs to be processed to obtain the desired materials. To extract them, the ore is ground into fine particles, then mixed with water and various dangerous chemicals. This process results in useful minerals (such as gold, copper or uranium), but also creates large amounts of toxic sludge.
 
-Since it is hazardous to humans, animals, and the environment, the toxic waste produced by mining operations needs to be stored indefinitely. This is usually done by constructing tailing dams, which are relatively cheap when compared with other options. However, tailing dams have a major downside: they are prone to breaking or overflowing of not maintained properly.
+Since it is hazardous to humans, animals, and the environment, the toxic waste produced by mining operations needs to be stored indefinitely. This is usually done by constructing tailing dams, which are relatively cheap when compared with other options. However, tailing dams have a major downside: they are prone to breaking or overflowing if not maintained properly.
 
 As this graphic shows, there is an incredible amount of (potentially dangerous) tailing damn waste across the world:
 
