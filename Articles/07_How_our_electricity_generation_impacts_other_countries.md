@@ -69,7 +69,7 @@ The mining industry is making some efforts to improve tailing dams[5]. However, 
 
 ### **Conclusion**
 
-Since all power sources require construction and mining, humanitarian and environmental risks are present across the board. There are no easy solutions to these problems, which voters, businesses, governments and the global community will need to solve together. In the meantime, Switzerland can try to reduce its impact by conuming less minerals, by recycling or by using less mineral-intense technologies. In the electricity industry, wind turbines and solar panels require many mined materials, though of course these technologies have other advantages.
+Since all power sources require construction and mining, humanitarian and environmental risks are present across the board. There are no easy solutions to these problems, which voters, businesses, governments and the global community will need to solve together. In the meantime, Switzerland can try to reduce its impact by consuming less minerals, by recycling or by using less mineral-intense technologies. In the electricity industry, wind turbines and solar panels require many mined materials, though of course these technologies have other advantages.
 
 
 
