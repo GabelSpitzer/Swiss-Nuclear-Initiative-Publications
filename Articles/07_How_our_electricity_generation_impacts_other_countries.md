@@ -28,7 +28,7 @@ For example, a solar panel may be constructed in a Chinese factory, releasing ca
 
 These background emissions certainly do not make coal or gas power plants look better than renewables - they are still many times more destructive. However, one should still be aware that all power plants release greenhouse gasses at some point during their life cycle - often in other countries - and compare them by their net contributions.
 
-### The second problem: The h**umanitarian costs of mining**
+### The second problem: The humanitarian costs of mining
 
 Power plants require a variety of materials for construction and operation, many of which need to be mined. Unfortunately, mining operations pose many dangers to workers, the environment and nearby human settlements.
 
